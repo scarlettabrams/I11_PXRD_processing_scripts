@@ -1,4 +1,4 @@
-## ***B. requirements.txt**
+## requirements.txt
 
 ```txt
 numpy
