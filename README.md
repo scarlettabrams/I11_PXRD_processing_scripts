@@ -58,3 +58,6 @@ For detailed workflow explanations, refer to the companion document:
 
 Author: Scarlett Abrams and Beth Galtry 
 Affiliation: Diamond Light Source & University of Nottingham
+
+
+original scripts from Beth Galtry availble at: https://github.com/ESGaltry/I11_PXRD_processing_scripts
