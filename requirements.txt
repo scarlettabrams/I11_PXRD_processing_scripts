@@ -1,0 +1,14 @@
+## ***B. requirements.txt**
+
+```txt
+numpy
+pandas
+matplotlib
+scipy
+h5py
+pyFAI
+ipywidgets
+IPython
+notebook
+openpyxl
+tqdm
