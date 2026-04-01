@@ -12,3 +12,4 @@ IPython
 notebook
 openpyxl
 tqdm
+plotly
